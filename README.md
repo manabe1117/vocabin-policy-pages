@@ -23,7 +23,7 @@
 ### 3. アクセスURL
 GitHub Pagesが有効化されると、以下のURLでアクセス可能になります：
 ```
-https://[username].github.io/vocabin-pages/
+https://manabe1117.github.io/vocabin-pages/
 ```
 
 ## Google Play Consoleでの設定
@@ -35,7 +35,7 @@ https://[username].github.io/vocabin-pages/
 
 ### アカウント削除用URL
 ```
-https://[username].github.io/vocabin-pages/account-deletion.html
+https://manabe1117.github.io/vocabin-pages/account-deletion.html
 ```
 
 ## ファイル構成
@@ -62,3 +62,4 @@ vocabin-pages/
 ## サポート
 
 質問や問題がある場合は、GitHubのIssues機能をご利用ください。
+
